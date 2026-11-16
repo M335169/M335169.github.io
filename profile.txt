@@ -10,6 +10,7 @@ title1=Working Student and Working/Germany/Mexico
 
 expertise=Process Analyst, Risk Management, Digital Transformation.
 
+
 education=MDBM Hochschule Pforzheim 
 
 email=alejandragonzalezibarra0@gmail.com
