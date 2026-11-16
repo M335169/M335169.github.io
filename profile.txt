@@ -7,6 +7,7 @@
 name=MDBM Alejandra González Ibarra
 
 title1=Working Student and Working/Germany/Mexico
+title2=
 
 expertise=Process Analyst, Risk Management, Digital Transformation.
 
