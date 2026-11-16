@@ -4,24 +4,24 @@
 # Lines starting with # are comments and are ignored.
 # ============================================================
 
-name=Prof. Pin Luarn
+name=MDBM Alejandra González Ibarra
 
-title1=Top 2% Scientist Worldwide (2020-2026)
+title1=Working Student and Working/Germany/Mexico
 
-title2=2024 National Teaching Award Laureate
+title2= 
 
-expertise=Internet Marketing, AI Applications, Agentic AI
+expertise=Process Analyst, Risk Management, Digital Transformation.
 
-education=Ph.D. in Industrial Engineering, University of Wisconsin-Madison, USA
+education=MDBM Hochschule Pforzheim 
 
-email=luarn@mail.ntust.edu.tw
-linkedin=https://pse.is/8nn88y
+email=alejandragonzalezibarra0@gmail.com
+linkedin=https://www.linkedin.com/in/alejandra-glz-i/
 
-about1=Prof. Luarn earned his B.S. in Industrial Engineering from Tunghai University,
+about1=I'm from Mexico City
 about2=and his M.S. and Ph.D. in Industrial Engineering from the University of Wisconsin-Madison.
 about3=Named among the world's top 2% scientists by Stanford University & Elsevier for seven consecutive years (2020-2026).
-about4=Recipient of the 2024 Presidential National Teaching Award, Taiwan
+about4=
 
-phone=+886-2-2737-6754
+phone=+5512905102
 
-location=T2-409, National Taiwan University of Science and Technology, No. 43, Sec. 4, Keelung Rd., Taipei, Taiwan
+location=Pforzheim
