@@ -8,7 +8,6 @@ name=MDBM Alejandra González Ibarra
 
 title1=Working Student and Working/Germany/Mexico
 
-title2= 
 
 expertise=Process Analyst, Risk Management, Digital Transformation.
 
@@ -18,8 +17,8 @@ email=alejandragonzalezibarra0@gmail.com
 linkedin=https://www.linkedin.com/in/alejandra-glz-i/
 
 about1=I'm from Mexico City
-about2=and his M.S. and Ph.D. in Industrial Engineering from the University of Wisconsin-Madison.
-about3=Named among the world's top 2% scientists by Stanford University & Elsevier for seven consecutive years (2020-2026).
+about2=Bachelor's studies in Industrial Administration
+about3=
 about4=
 
 phone=+5512905102
